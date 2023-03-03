@@ -816,6 +816,7 @@ max-width.fixed.px: $header.width
 role: $inherited.types.heading-small
 color: $inherited.colors.text-strong
 align-self: center
+link: index.html
 
 -- ftd.row:
 width: fill-container
