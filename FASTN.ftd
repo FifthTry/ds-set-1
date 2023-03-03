@@ -11,12 +11,10 @@ download-base-url: https://raw.githubusercontent.com/fifthtry/ds-set-1/main
 -- fastn.sitemap:
 
 
-# Blogs: /blog-listing-page/
+# Blogs: blog-listing-page/
 
-# Blog: /blog-detail-page/
+# Blog: blog-detail-page/
 
-# Docs: /doc-page/
+# Docs: doc-page/
 
-# Apis: /api-page/
-
-# Label: /
+# Apis: api-page/
