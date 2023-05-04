@@ -1,0 +1,501 @@
+-- import: fifthtry.github.io/ds-set-1/lib as lp
+-- import: fifthtry.github.io/ds-set-1/assets
+
+-- lp.page: API Page
+brand-name: Fastn
+header-width: 1440
+login: true
+icon1: $assets.files.assets.heart-icon.svg
+icon2: $assets.files.assets.notifications-icon.svg
+icon3: $assets.files.assets.shopping_cart-icon.svg
+icon4: $assets.files.assets.search-icon.svg
+avatar: $assets.files.assets.patrica.png
+breadcrumbs: true
+
+-- lp.page-wrapper:
+width: 1440
+
+-- lp.col:
+width: 22.22
+padding-horizontal: 24
+
+-- lp.left-sidebar: hello
+arrow: $assets.files.assets.right-arrow-icon.svg
+list-of-navs: $list-of-navs
+
+-- end: lp.col
+
+-- lp.col:
+width: 48.125
+padding-horizontal: 50
+
+-- lp.blog-sections-wrapper:
+
+-- lp.blog-section: API References
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Authentication
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Connected Accounts
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Errors
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- lp.question-accordion: What payment methods do you accept?
+src: $assets.files.assets.down.svg
+
+The Stripe API doesn't support bulk updates. You can work on only one object per request.
+
+-- end: lp.question-accordion
+
+-- lp.question-accordion: What payment methods do you accept?
+src: $assets.files.assets.down.svg
+
+The Stripe API doesn't support bulk updates. You can work on only one object per request.
+
+-- end: lp.question-accordion
+
+-- lp.question-accordion: What payment methods do you accept?
+src: $assets.files.assets.down.svg
+
+The Stripe API doesn't support bulk updates. You can work on only one object per request.
+
+-- end: lp.question-accordion
+
+-- lp.question-accordion: What payment methods do you accept?
+src: $assets.files.assets.down.svg
+
+The Stripe API doesn't support bulk updates. You can work on only one object per request.
+
+-- end: lp.question-accordion
+
+-- lp.question-accordion: What payment methods do you accept?
+src: $assets.files.assets.down.svg
+
+The Stripe API doesn't support bulk updates. You can work on only one object per request.
+
+-- end: lp.question-accordion
+
+-- lp.question-accordion: What payment methods do you accept?
+src: $assets.files.assets.down.svg
+
+The Stripe API doesn't support bulk updates. You can work on only one object per request.
+
+-- end: lp.question-accordion
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Handling Errors
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Expanding Responses
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Idempotent Requests
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Metadata
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Pagination
+
+-- lp.paragraph:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+recusandae alias error harum maxime adipisci amet laborum.
+
+-- end: lp.paragraph
+
+-- end: lp.blog-section
+
+-- end: lp.blog-sections-wrapper
+
+-- end: lp.col
+
+
+
+
+-- lp.col:
+width: 29.65
+padding-horizontal: 24
+
+-- lp.blog-section: Just Getting Started?
+
+-- lp.paragraph2:
+
+Lorem ipsum dolor sit amet consectetur adipisicing.
+
+-- end: lp.paragraph2
+
+-- end: lp.blog-section
+
+-- lp.blog-section: Not a developer
+
+-- lp.paragraph2:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+
+-- end: lp.paragraph2
+
+-- end: lp.blog-section
+
+-- lp.card1: Base URL
+
+https://apis.fastn.com
+
+-- end: lp.card1
+
+-- lp.language-wrapper:
+lang-bg: $assets.files.assets.lang-bg.png
+
+-- lp.language: Python
+lang-icon: $assets.files.assets.python.png
+active: true
+
+-- end: lp.language
+
+-- lp.language: Ruby
+lang-icon: $assets.files.assets.ruby.png
+
+-- end: lp.language
+
+-- lp.language: Java
+lang-icon: $assets.files.assets.java.png
+
+-- end: lp.language
+
+-- end: lp.language-wrapper
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Your Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Your Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Your Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Your Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Global Api Key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- lp.card1: Pre-Request api key
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati.
+
+-- end: lp.card1
+
+-- end: lp.col
+
+-- end: lp.page-wrapper
+
+-- end: lp.page
+
+
+
+
+
+
+
+
+
+-- $lp.document-record list list-of-navs:
+
+-- $lp.document-record: Home
+
+this is body
+
+-- $lp.document-record: Pocket
+
+this is body
+
+-- $lp.document-record: History
+
+this is body
+
+-- $lp.document-record: Service
+
+this is body
+
+-- $lp.document-record: Saved
+
+this is body
+
+-- end: list-of-navs
