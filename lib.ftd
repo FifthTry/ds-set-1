@@ -57,6 +57,7 @@ icon2: $page.icon2
 icon3: $page.icon3
 icon4: $page.icon4
 avatar: $page.avatar
+sections: $page.sections
 
 -- end: header
 
