@@ -49,20 +49,6 @@ align-content: center
 
 -- dark-mode-switcher-float:
 
--- ftd.column:
-width: fill-container
-max-width.fixed.px: $width
-align-self: center
-
--- end: ftd.column
-
--- ftd.column:
-width: fill-container
-max-width.fixed.px: $width
-align-self: center
-
--- end: ftd.column
-
 -- header: $page.brand-name
 login: $page.login
 width: $page.header-width
@@ -793,7 +779,7 @@ padding.px: 15
 -- component header:
 caption brand-name:
 integer width: $width
-pr.toc-item list sections: $sitemap.sections
+pr.toc-item list sections: 
 boolean login: false
 ftd.image-src icon1:
 ftd.image-src icon2:
@@ -862,32 +848,25 @@ color: $inherited.colors.text
 -- ftd.row:
 spacing.fixed.px: 24
 
--- ftd.image:
+-- image:
 src: $header.icon1
-width.fixed.px: 20
-height.fixed.px: 20
 
--- ftd.image:
+-- image:
 src: $header.icon2
-width.fixed.px: 20
-height.fixed.px: 20
 
--- ftd.image:
+-- image:
 src: $header.icon3
-width.fixed.px: 20
-height.fixed.px: 20
 
--- ftd.image:
+-- image:
 src: $header.icon4
-width.fixed.px: 20
-height.fixed.px: 20
+
 
 -- end: ftd.row
 
--- ftd.image:
+-- image:
 src: $header.avatar
-width.fixed.px: 48
-height.fixed.px: 48
+width: 48
+height: 48
 
 -- end: ftd.row
 
@@ -901,7 +880,18 @@ height.fixed.px: 48
 
 
 
+-- component image:
+optional ftd.image-src src:
+integer width: 20
+integer height: 20
 
+-- ftd.image:
+if: { image.src != NULL }
+src: $image.src
+width.fixed.px: $image.width
+height.fixed.px: $image.height
+
+-- end: image
 
 -- component header-links:
 pr.toc-item sections:

@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+-- record social-media:
+ftd.image-src src:
+string link: /
+
+-- social-media list social-links:
+
+-- social-media:
+link: /
+src: https://admint.io/instagram.6dfc5cafd7516572a269.svg
+
+-- social-media: 
+link: /
+src: https://admint.io/linkedin.5c208bfde7ff079b9f35.svg
+
+-- social-media:
+link: /
+src: https://admint.io/twitter.d3071d3132f19afb426e.svg
+
+-- social-media: 
+link: /
+src: https://admint.io/facebook.5af5659b1d481d1457d7.svg
+
+-- end: social-links
+
+
+
+
+
